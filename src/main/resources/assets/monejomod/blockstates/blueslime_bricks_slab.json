@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "monejomod:block/blueslime_bricks_slab"
+    },
+    "type=double": {
+      "model": "monejomod:block/blueslime_bricks"
+    },
+    "type=top": {
+      "model": "monejomod:block/blueslime_bricks_slab_top"
+    }
+  }
+}

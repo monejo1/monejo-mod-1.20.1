@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "monejomod:block/dwarf_wall_torch"
+    },
+    "facing=north": {
+      "model": "monejomod:block/dwarf_wall_torch",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "monejomod:block/dwarf_wall_torch",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "monejomod:block/dwarf_wall_torch",
+      "y": 180
+    }
+  }
+}

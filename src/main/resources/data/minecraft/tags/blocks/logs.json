@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "monejomod:weirwood_log",
+    "monejomod:stripped_weirwood_log",
+    "monejomod:stripped_weirwood_wood",
+    "monejomod:weirwood_wood"
+  ]
+}

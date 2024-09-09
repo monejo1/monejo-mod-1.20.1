@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "monejomod:block/dwarfstone",
+    "side": "monejomod:block/dwarfstone",
+    "top": "monejomod:block/dwarfstone"
+  }
+}

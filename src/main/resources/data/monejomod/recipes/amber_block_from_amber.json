@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "monejomod:raw_amber_block"
+
+    }
+  ],
+  "result": {
+    "item": "monejomod:raw_amber",
+    "count": 9
+  }
+}

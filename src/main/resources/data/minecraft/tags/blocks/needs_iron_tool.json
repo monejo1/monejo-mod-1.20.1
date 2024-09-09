@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "monejomod:dwarfstone_bricks",
+    "monejomod:dwarfstone_bricks_wall",
+    "monejomod:dwarfstone_bricks_slab",
+    "monejomod:dwarfstone_bricks_stairs",
+    "monejomod:polished_dwarfstone",
+    "monejomod:polished_dwarfstone_slab",
+    "monejomod:polished_dwarfstone_stairs",
+    "monejomod:polished_dwarfstone_wall"
+
+  ]
+}

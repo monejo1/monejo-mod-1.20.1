@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "monejomod:block/dwarf_lantern"
+    },
+    "hanging=true": {
+      "model": "monejomod:block/dwarf_lantern_hanging"
+    }
+  }
+}

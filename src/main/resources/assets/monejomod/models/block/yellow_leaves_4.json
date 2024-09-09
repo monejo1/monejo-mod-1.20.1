@@ -1,0 +1,6 @@
+{
+  "parent": "monejomod:block/leafpile_4",
+  "textures": {
+    "leaf": "monejomod:block/yellow_leaves"
+  }
+}

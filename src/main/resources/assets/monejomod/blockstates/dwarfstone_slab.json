@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "monejomod:block/dwarfstone_slab"
+    },
+    "type=double": {
+      "model": "monejomod:block/dwarfstone"
+    },
+    "type=top": {
+      "model": "monejomod:block/dwarfstone_slab_top"
+    }
+  }
+}

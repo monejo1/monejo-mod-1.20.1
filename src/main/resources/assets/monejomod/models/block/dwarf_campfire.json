@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_campfire",
+  "textures": {
+    "fire": "monejomod:block/dwarf_campfire_fire",
+    "lit_log": "monejomod:block/dwarf_campfire_log_lit"
+  }
+}

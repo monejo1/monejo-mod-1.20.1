@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "monejomod:block/blueslime_bricks",
+    "top": "monejomod:block/blueslime_bricks",
+    "side": "monejomod:block/blueslime_bricks"
+  }
+}

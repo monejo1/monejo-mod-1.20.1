@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "monejomod:block/weirwood_log",
+    "side": "monejomod:block/weirwood_log"
+  }
+}

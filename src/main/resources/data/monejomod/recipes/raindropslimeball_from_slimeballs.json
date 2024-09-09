@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#B#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:slime_ball"
+    },
+    "B": {
+      "item": "monejomod:blueslime"
+    }
+  },
+  "result": {
+    "count": 8,
+    "item": "monejomod:blueslime"
+  }
+}

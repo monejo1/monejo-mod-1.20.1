@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "monejomod:block/polished_dwarfstone"
+  }
+}

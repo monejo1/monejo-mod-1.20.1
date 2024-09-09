@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "monejomod:raw_amber"
+    }
+  },
+  "result": {
+    "item": "monejomod:raw_amber_block"
+  }
+}
